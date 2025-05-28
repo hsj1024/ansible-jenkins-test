@@ -3,5 +3,5 @@
   tasks:
     - name: 테스트 파일 생성
       file:
-        path: ~/jenkins_test_file.txt
+        path: /Users/seojeong/Documents/GitHub/ansible-jenkins-test/jenkins_test_file.txt
         state: touch
