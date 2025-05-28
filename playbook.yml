@@ -1,0 +1,7 @@
+- hosts: localhost
+  connection: local
+  tasks:
+    - name: 테스트 파일 생성
+      file:
+        path: ~/jenkins_test_file.txt
+        state: touch
