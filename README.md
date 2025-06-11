@@ -1,4 +1,5 @@
 # Jenkins-Ansible Integration Demo
+![Image](https://github.com/user-attachments/assets/45689f10-0c10-485c-a6f4-85820f644fd8)
 
 이 프로젝트는 macOS 환경에서 Jenkins와 Ansible을 연동하여, Ansible 플레이북을 Jenkins Job으로 실행하는 자동화 실습입니다.
 
